@@ -1,1 +1,1 @@
-# js-pract.ja
+# js-pract.js
