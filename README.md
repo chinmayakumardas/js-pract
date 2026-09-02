@@ -1,2 +1,2 @@
 # js-pract.js
-cedc 
+daily js practice
