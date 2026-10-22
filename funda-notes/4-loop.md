@@ -98,7 +98,7 @@ for (let i = 0; i < 5; i++) {
 // 0 1 3 4
 ```
 
-## Quick Revisions:
+## Quick Revisions::
 
 | Syntax       | Meaning                     |
 | ------------ | --------------------------- |
